@@ -1,4 +1,4 @@
-### C++ Chess Engine
+# C++ Chess Engine
 
 ## Implementation of a chess engine in C++
 
